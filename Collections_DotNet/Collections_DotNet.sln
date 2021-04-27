@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31019.35
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Collections_DotNet", "Collections_DotNet\Collections_DotNet.csproj", "{9B5F2C44-C97E-4794-84DF-2089FF0E5555}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PersonDataManagement", "PersonDataManagement\PersonDataManagement.csproj", "{DC6C630A-E51B-417C-A221-94463B72629C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9B5F2C44-C97E-4794-84DF-2089FF0E5555}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B5F2C44-C97E-4794-84DF-2089FF0E5555}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B5F2C44-C97E-4794-84DF-2089FF0E5555}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B5F2C44-C97E-4794-84DF-2089FF0E5555}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DC6C630A-E51B-417C-A221-94463B72629C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DC6C630A-E51B-417C-A221-94463B72629C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DC6C630A-E51B-417C-A221-94463B72629C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DC6C630A-E51B-417C-A221-94463B72629C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1A4B6339-5A92-41CB-A0F8-95BB6837F0B3}
+	EndGlobalSection
+EndGlobal
